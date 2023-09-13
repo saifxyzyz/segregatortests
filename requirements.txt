@@ -1,0 +1,4 @@
+openpyxl
+imaplib2
+datetime
+pillow
